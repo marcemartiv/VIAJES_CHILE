@@ -1,9 +1,21 @@
 body {
     margin: 0;
     padding: 0;
+    border: 0;
+    background-color: #000;
+   
+    
 }
 .carousel-inner {
     
     width: 100%
     
+  }
+ 
+  .hr {
+    background-color: lightskyblue;
+  }
+  .fondo {
+      background-color: lightskyblue;
+      
   }
