@@ -22,3 +22,13 @@ body {
   .card {
     background-color: lightskyblue;
   }
+  h2 {
+    margin: auto;
+    padding: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size-adjust: none;
+  }
+  .decoviaje {
+    font-family: 'Calistoga', cursive;
+    color: white;
+  }
